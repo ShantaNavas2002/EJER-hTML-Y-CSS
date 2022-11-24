@@ -1,0 +1,42 @@
+#titu {
+    background-color: rgb(255, 239, 214);
+    
+    
+}
+body {
+    font-family: "Poppins", serif;
+    background-color: rgb(242, 222, 186);
+}
+
+#menuHorizontal {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+#menuHorizontal a{
+    width: 100px;
+    text-align: center;
+    background-color: rgb(160, 228, 203);
+    color: black;
+    padding: 5px;
+    display: block;
+    border-right: 2px black;
+}
+#menuHorizontal a:hover{
+    color: rgb(14, 94, 111)al;
+}
+#menuHorizontal li{
+    float: left;
+}
+
+.encabezado{
+    float: inline-start;
+}
+
+.pie {
+    float: inline-end;
+    text-align: center;
+    background-color: rgb(255, 239, 214);
+}
+

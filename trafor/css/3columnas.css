@@ -1,0 +1,22 @@
+aside {
+    float: right;
+    size: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 15px;
+    color: aliceblue;
+    background-color: rgb(13, 76, 146);
+    border-radius: 10px;
+}
+
+.navegacion {
+    float: left;
+    margin-right: 15px;
+    padding-right: 15px;
+    width: 20%;
+    background-color:rgb(207, 245, 231);
+    border-radius: 10%;
+    color: black;
+}

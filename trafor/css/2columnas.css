@@ -1,0 +1,65 @@
+
+
+
+.navegacion {
+    float: left;
+    margin-right: 15px;
+    padding-right: 15px;
+    width: 30%;
+    background-color:rgb(207, 245, 231);
+    border-radius: 10%;
+}
+
+.secciones {
+    width: 50%;
+    margin-left: 35%;
+    background-color: rgb(160, 228, 203);
+}
+
+section {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: rgb(89, 193, 189);
+}
+
+aside {
+    float: right;
+    size: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: rgb(13, 76, 146);
+}
+
+div{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#encabezado{
+    float: inline-start;
+}
+
+#pie {
+    float: inline-end;
+    text-align: center;
+    
+}
+
+footer a{
+    color:black;
+}
+
+
+
+section form {
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+
+
+.secciones {
+    width: 50%;
+    margin-left: 25%;
+    background-color: rgb(160, 228, 203);
+}
+
+section {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    padding-right: 25px;
+    background-color: rgb(89, 193, 189);
+}
+
+
+
+
+.videos{
+    float:  right;
+    width: 20%;
+    background-color: rgb(89, 193, 189);
+    padding: 25px;
+    border-radius: 10%;
+}
